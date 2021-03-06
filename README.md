@@ -1,2 +1,3 @@
 # hello-world
-for learning purposes
+for learning purpose
+and practice
